@@ -37,26 +37,10 @@
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Georges&layout=compact" />
 
 
-<h1 align="center">Hi there i'm Georges !👋</h1>
-<h3 align="center">A passionate frontend developer from brussels</h3>
 
 
-<img   width="47%" src="https://github-readme-stats.vercel.app/api?username=N-Georges&show_icons=true&theme=radical" />
-<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Georges&layout=compact" />
 
-### My stack
-<img alt="javascript" align="left" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img alt="php" align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img alt="reactjs" align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img alt="material-ui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-<img alt="laravel" align="left" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img alt="tailwind-css" align="left" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img alt="sass" align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### Follow me
-<a href="https://www.linkedin.com/in/georges-nodari-580100211/"><img alt="linkedin" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" /></a>
-<a href="https://twitter.com/georges26670844"><img alt="twiter" height="30" width="40" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ### Productivity 
 <img alt="notion" align="left" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
@@ -68,8 +52,4 @@
 <img alt="ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img alt="windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 
-
-
-### My Gaming
-<img alt="xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 
