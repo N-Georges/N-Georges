@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/georges26670844" target="blank"><img src="https://img.shields.io/twitter/follow/georges26670844?logo=twitter&style=for-the-badge" alt="https://twitter.com/georges26670844" /></a> </p>
 
-- 🔭 I’m currently working on **ReactJs | Laravel**
+- 🔭 I’m currently working on **React JS | Laravel**
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate on **React JS**
 
 - 👨‍💻 My portfolio [https://ngeorges-portfolio.vercel.app/](https://ngeorges-portfolio.vercel.app/)
 
