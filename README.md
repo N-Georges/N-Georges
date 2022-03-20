@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io) -->
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2Ftechniques-for-animating-on-the-canvas-in-react-d0e9fd53e9da&psig=AOvVaw2cbLRoRjZgVPmbj4rRGkmW&ust=1647866507454000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiavKPb1PYCFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Georges Nodari</h1>
 <h3 align="center">A passionate frontend developer from Brussels</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
