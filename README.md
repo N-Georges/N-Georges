@@ -17,7 +17,7 @@
 
 - 👨‍💻 My portfolio [https://ngeorges-portfolio.vercel.app/](https://portfolio-nextjs-a6sl7rl1c-n-georges.vercel.app/)
 
-- 💬 Ask me about **react, js, laravel, php**
+- 💬 Ask me about **react, js, laravel**
 
 - 📫 How to reach me **ngeorges.dev@gmail.com**
 
