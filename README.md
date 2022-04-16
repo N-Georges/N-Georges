@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/georges26670844" target="blank"><img src="https://img.shields.io/twitter/follow/georges26670844?logo=twitter&style=for-the-badge" alt="https://twitter.com/georges26670844" /></a> </p>
 
-- 🔭 I’m currently working on **React JS | React Native**
+- 🔭 I’m currently working on **React JS - React Native**
 
 - 👯 I’m looking to collaborate on **React JS - React Native**
 
