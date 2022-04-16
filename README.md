@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/georges26670844" target="blank"><img src="https://img.shields.io/twitter/follow/georges26670844?logo=twitter&style=for-the-badge" alt="https://twitter.com/georges26670844" /></a> </p>
 
-- 🔭 I’m currently working on **React JS | Laravel**
+- 🔭 I’m currently working on **React JS | React Native**
 
-- 👯 I’m looking to collaborate on **React JS**
+- 👯 I’m looking to collaborate on **React JS - React Native**
 
 - 👨‍💻 My portfolio [https://ngeorges-portfolio.vercel.app/](https://portfolio-nextjs-a6sl7rl1c-n-georges.vercel.app/)
 
-- 💬 Ask me about **react, js, laravel**
+- 💬 Ask me about **React JS, Laravel**
 
 - 📫 How to reach me **ngeorges.dev@gmail.com**
 
